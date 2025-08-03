@@ -5,9 +5,9 @@
 <p align="center"><details> </p align="center"> 
 <p align="center"> <summary>About</summary> </p align="center"> 
 My PonyTown account is shared between <strong>alters</strong>,
-So please keep that in mind when interacting with me. 
+<br>So please keep that in mind when interacting with me. </br>
   
 I also respond to "Harvey" as a collective name ^p^
-  I am not very open about my system and don't plan to be,
+<br>I am not very open about my system and don't plan to be,</br>
 this is only shared to <strong>express myself</strong> without confusion from others.
  </details> 
